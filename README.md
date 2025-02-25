@@ -68,6 +68,8 @@ Welcome to the Python Loops and Functions Project! In this project, you will pra
      ```bash
      pytest test_tasks.py
      ```
+   - Passing test cases will appear like this:
+     ![Alt text](testcases.png)
 
 4. **Commit and Push Your Changes**:  
    - Add your changes:  
